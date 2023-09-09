@@ -1,2 +1,2 @@
 # 100DaysofCoding
-A new project where I add something new everyday for 100 days
+A new project where I add something new everyday for 100 days.
