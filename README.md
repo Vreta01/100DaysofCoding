@@ -8,3 +8,4 @@ A new project where I add something new everyday for 100 days.
 09182023 - 2 Max sequences in array (StocksIII) - LeetCode Question
 09192023 - Valid palindrome - LeetCode Question
 09202023 - Greatest Common Divisor of Strings - LeetCode Question
+09212023 - Can Place Flowers - LeetCode Question
