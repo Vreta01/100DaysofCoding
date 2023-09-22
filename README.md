@@ -9,3 +9,4 @@ A new project where I add something new everyday for 100 days.
 09192023 - Valid palindrome - LeetCode Question
 09202023 - Greatest Common Divisor of Strings - LeetCode Question
 09212023 - Can Place Flowers - LeetCode Question
+09222023 - Zeros in Array - LeetCode Question
