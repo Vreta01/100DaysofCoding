@@ -11,4 +11,4 @@ A new project where I add something new everyday for 100 days.
 09212023 - Can Place Flowers - LeetCode Question
 09222023 - Zeros in Array - LeetCode Question
 09252023 - Multiple Array Problems - LeetCode Questions
-09262023 - Unique Occurences - LeetCode Posted Submission
+09262023 - Array Number Count - LeetCode Posted Submission
