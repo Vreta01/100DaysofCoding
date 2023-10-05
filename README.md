@@ -16,3 +16,4 @@ A new project where I add something new everyday for 100 days.
 10022023 - Reverse Words in String - LeetCode Question
 10032023 - Product of Array Except Self - LeetCode Question
 10042023 - Container with Most Water - LeetCode Question
+10052023 - Increasing Subsequence Triplet - LeetCode Question
