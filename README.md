@@ -20,3 +20,4 @@ A new project where I add something new everyday for 100 days.
 10062023 - String Compression - LeetCode Question
 10092023 - Queue Number of Calls - LeetCode Question
 10102023 - Queue Dota2 -LeetCode Question
+10112023 - Binary Tree Max Depth - LeetCode Question
