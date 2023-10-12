@@ -31,5 +31,24 @@ namespace LeetCode_Practice
                 return max;
             }
 
+            public bool LeafSimilar(TreeNode root1, TreeNode root2)
+            {
+                List<int> leaf1 = new List<int>();
+                List<int> leaf2 = new List<int>();
+                DFS(root1, leaf1);
+                DFS(root2, leaf2);
+                return leaf1.SequenceEqual(leaf2);
+            }
+
+            public void DFS(TreeNode branch, List<int> leaf)
+            {
+                if (branch == null)
+                { return; }
+                if (branch.left == null && branch.right == null)
+                { leaf.Add(branch.val); }
+                DFS(branch.left, leaf);
+                DFS(branch.right, leaf);
+            }
+
     }
 }
