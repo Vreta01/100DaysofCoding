@@ -22,3 +22,4 @@ A new project where I add something new everyday for 100 days.
 10102023 - Queue Dota2 -LeetCode Question
 10112023 - Binary Tree Max Depth - LeetCode Question
 10122023 - Binary Tree DFS - LeetCode Question
+10172023 - Linked List Reversal - LeetCode Question
