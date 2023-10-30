@@ -31,3 +31,4 @@ A new project where I add something new everyday for 100 days.
 10252023 - Mapping Jagged Array Matrix For Row/Column Pairs - LeetCode Question
 10262023 - Linked List Middle Node Removal - LeetCode Question
 10272023 - Linked List Split and Merge Odd/Even - LeetCode Question
+10302023 - Stack Remove * From String - LeetCode Question
