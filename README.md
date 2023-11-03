@@ -34,3 +34,4 @@ A new project where I add something new everyday for 100 days.
 10302023 - Stack Remove * From String - LeetCode Question
 10312023 - Stack Asteroid Collisions - LeetCode Question
 11012023 - Stack String Decoding - LeetCode Question
+11022023 - Linked List Max Pair - LeetCode Question
