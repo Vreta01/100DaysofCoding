@@ -39,3 +39,4 @@ A new project where I add something new everyday for 100 days.
 11062023 - Binary Tree Path Target Sum - LeetCode Question
 11072023 - Binary Tree Longest Path ZigZag - LeeetCode Question
 11082023 - Binary Search Tree Search - LeetCode Question
+11092023 - Binary Search Tree Delete Node - LeetCode Qeustion
