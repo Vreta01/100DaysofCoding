@@ -61,3 +61,4 @@ A new project where I add something new everyday for 100 days.
 12142023 - Heap Two Subsequence Max Score - LeetCode Question
 12152023 - Dynamic Programming Unique Paths - LeetCode Question
 12182023 - Binary Tree Lowest Common Root - LeetCode Question
+12192023 - Trie First Try - LeetCode Question
