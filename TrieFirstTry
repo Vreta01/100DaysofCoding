@@ -1,0 +1,57 @@
+public class Trie {
+
+        Trie[] trieNode;
+        int count = 26;
+        bool isEnd = false;
+    public Trie()
+        {
+            trieNode = new Trie[count];
+        }
+    
+    
+    public void Insert(string word) {
+        Trie temp = this;
+        for (int i = 0; i < word.Length; i++)
+        {
+            int ind = word[i] - 'a';
+            if (temp.trieNode[ind] == null)
+            {
+                temp.trieNode[ind] = new Trie();
+            }
+            temp = temp.trieNode[ind];
+        }
+        temp.isEnd = true;
+    }
+    
+    public bool Search(string word) {
+        Trie temp = this;
+        for (int i = 0; i < word.Length; i++)
+        {
+            int ind = word[i] - 'a';
+            if (temp.trieNode[ind] == null)
+            { return false; }
+            temp = temp.trieNode[ind];
+        }
+        return temp.isEnd;  
+    }
+    
+    public bool StartsWith(string prefix) {
+        Trie temp = this;
+        for (int i = 0; i < prefix.Length; i++)
+        {
+            int ind = prefix[i] - 'a';
+            if (temp.trieNode[ind] == null)
+            { return false; }
+            temp = temp.trieNode[ind];
+        }
+        return true;
+    }
+}
+
+/**
+ * Your Trie object will be instantiated and called as such:
+ * Trie obj = new Trie();
+ * obj.Insert(word);
+ * bool param_2 = obj.Search(word);
+ * bool param_3 = obj.StartsWith(prefix);
+ */
