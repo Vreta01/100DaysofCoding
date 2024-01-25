@@ -62,3 +62,4 @@ A new project where I add something new everyday for 100 days.
 12152023 - Dynamic Programming Unique Paths - LeetCode Question
 12182023 - Binary Tree Lowest Common Root - LeetCode Question
 12192023 - Trie First Try - LeetCode Question
+01252023 - (PYTHON) Plus One - LeetCode Question
